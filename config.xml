@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.itsoeasynew.app" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>It's sS Easy</name>
-    <description>L’applicazione che aiuta le imprese nella gestione dei rifiuti speciali, non pericolosi e pericolosi.</description>
+    <description>Applicazione che aiuta le imprese nella gestione dei rifiuti speciali, non pericolosi e pericolosi.</description>
     <author email="info@camera203.it" href="http:www.camera203.it">Camera203</author>
     <content src="index.html" />
     <access origin="*" />
@@ -84,7 +84,7 @@
     <engine name="ios" spec="~4.5.5" />
     <engine name="android" spec="~7.1.2" />
     <plugin name="cordova-plugin-ios-camera-permissions" spec="^1.2.0">
-        <variable name="CAMERA_USAGE_DESCRIPTION" value="La camera viene uata per permettere l'invio di foto relative ai rifiuti nelle vostre richieste" />
+        <variable name="CAMERA_USAGE_DESCRIPTION" value="La camera viene uata per permettere lo scatto di foto relative ai rifiuti nelle vostre richieste" />
     </plugin>
     <plugin name="cordova-plugin-file" spec="6.0.1" />
     <plugin name="cordova-plugin-camera" spec="4.0.3" />
